@@ -1,3 +1,9 @@
 # Random_codes_snippets
-segemnt motion using GCN on Hopkins155
-To DO 
+Segemnt motion using GCN on Hopkins155
+
+# To Do:
+ - [X] Parse Hopkins155
+ - [] Write Dataloader
+ - [] Make it run ready
+ - [] Train
+ - [] Fine Tune 
